@@ -1,0 +1,8 @@
+transformers
+torch
+nltk
+numpy
+pandas
+sacrebleu
+bert_score
+rouge_score
